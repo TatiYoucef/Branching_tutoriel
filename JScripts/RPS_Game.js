@@ -138,7 +138,4 @@ document.querySelector('body').addEventListener('keydown' , (event) => {
   }
 })
 
-let y = "change" ;
-console.log("Vesrion 4") ;
-
 if( localStorage.getItem('score') ) Score = JSON.parse(localStorage.getItem('score')) ; //if we already stored , we pull
