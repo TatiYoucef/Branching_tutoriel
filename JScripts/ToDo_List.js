@@ -47,3 +47,5 @@ x = x + "1" ; //Youcef added this , still in progress
 console.log(x) ;//still progress 2
 
 x = "finished !" ; //Youcef has finished
+
+console.log("new") ;//Youcef feature 2
