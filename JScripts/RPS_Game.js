@@ -138,4 +138,6 @@ document.querySelector('body').addEventListener('keydown' , (event) => {
   }
 })
 
+console.log("Bug fixed") ;
+
 if( localStorage.getItem('score') ) Score = JSON.parse(localStorage.getItem('score')) ; //if we already stored , we pull
