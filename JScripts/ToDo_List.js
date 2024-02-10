@@ -40,3 +40,5 @@ add_button.addEventListener('click' , () =>{
     Update_Content() ;
   }
 }) ;
+
+let x = "X_Team" ;
