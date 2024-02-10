@@ -42,3 +42,8 @@ add_button.addEventListener('click' , () =>{
 }) ;
 
 let x = "X_Team" ;
+
+x = x + "1" ; //Youcef added this , still in progress
+console.log(x) ;//still progress 2
+
+x = "finished !" ; //Youcef has finished
